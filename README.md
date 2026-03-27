@@ -1,4 +1,4 @@
-# Day 6 - LangChain + Groq
+# LangChain + Groq
 
 ## What I built
 - Connected Groq LLM using LangChain
